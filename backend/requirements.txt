@@ -4,6 +4,5 @@ sqlalchemy==2.0.23
 pdfplumber==0.10.1
 python-dotenv==1.0.0
 langchain==0.0.350
-pydantic==2.7.1
-pydantic-core==2.18.2
+pydantic==2.6.4
 orjson==3.9.10
