@@ -125,7 +125,7 @@ smart-resume-analyzer/
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/smart-resume-analyzer.git
+git clone https://github.com/shaiksuhail01/smart-resume-analyzer.git
 cd smart-resume-analyzer
 ```
 
