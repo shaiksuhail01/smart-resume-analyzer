@@ -1,0 +1,28 @@
+# Node.js / React
+node_modules/
+build/
+.env
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated
+.DS_Store
+Thumbs.db
