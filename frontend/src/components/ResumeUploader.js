@@ -28,8 +28,7 @@ const ResumeUploader = () => {
     fd.append('resume', file);
     setLoading(true);
     try {
-      // Updated to use the deployed backend
-      const res = await axios.post('http://localhost:8000/api/resumes/upload', fd, {
+      const res = await axios.post('https://smart-resume-analyzer-wlbv.onrender.com/api/resumes/upload', fd, {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
       setResult(res.data.analysis);
