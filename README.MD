@@ -6,7 +6,7 @@ A web-based application that allows users to upload resumes in PDF format, analy
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)]
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://smart-resume-analyzer-1-qjfa.onrender.com)
 
 **Click the badge above to open the fully deployed Resume Analyzer web application.**
 ---
