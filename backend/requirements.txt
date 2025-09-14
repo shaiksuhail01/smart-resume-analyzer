@@ -6,3 +6,4 @@ python-dotenv==1.0.0
 langchain==0.0.350
 pydantic==2.7.0  # Updated version
 orjson==3.9.10
+pytesseract==0.3.10
